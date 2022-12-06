@@ -13,7 +13,7 @@ jobs:
           token: ${{ secrets.INSIGHTS_TOKEN }}
       - uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: "16.X"
       - uses: gayanvoice/github-profile-views-counter-action@3.0.0
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
