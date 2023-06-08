@@ -26,18 +26,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/6/5 12:04 AM UTC
+			2023/6/6 12:00 AM UTC
 		</td>
 		<td>
-			80
+			81
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Nekzus/my-views-counter/raw/master/graph/472450268/small/year.png" height="20"> 2165
+			<img alt="Response time graph" src="https://github.com/Nekzus/my-views-counter/raw/master/graph/472450268/small/year.png" height="20"> 2180
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/6/7 11:58 PM UTC</i></small>
+<small><i>Last updated on 2023/6/8 12:26 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
