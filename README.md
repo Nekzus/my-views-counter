@@ -46,7 +46,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 ```readme
 [![Image of https://github.com/Nekzus/my-views-counter](https://github.com/Nekzus/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Nekzus/my-views-counter)
 ```
-[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/Nekzus/my-views-counter)
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
 - The app will automatically stop measuring insights until you revoke those commits.
