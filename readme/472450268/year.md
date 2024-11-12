@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/11/12 3:17 PM UTC</i></small>
+<small><i>Last updated on 2024/11/12 4:11 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -177,7 +177,7 @@
 ```readme
 # Nekzus [<img alt="Image of my-views-counter" src="https://github.com/Nekzus/my-views-counter/blob/master/graph/472450268/small/year.png" height="20">](https://github.com/Nekzus/my-views-counter/blob/master/readme/472450268/year.md)
 ```
-[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/Nekzus/my-views-counter)
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
 - The app will automatically stop measuring insights until you revoke those commits.
