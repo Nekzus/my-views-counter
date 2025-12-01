@@ -150,21 +150,10 @@
 			<code>2</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2024/11/1</code>
-		</td>
-		<td>
-			<code>2</code>
-		</td>
-		<td>
-			<code>3</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 30/11/2025, 15:06 ART</i></small>
+<small><i>Last updated on 30/11/2025, 21:27 ART</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
