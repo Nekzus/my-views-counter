@@ -8,12 +8,12 @@ jobs:
     name: GitHub Profile Views Counter Action
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.INSIGHTS_TOKEN }}
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
-          node-version: "16.X"
+          node-version: "20.X"
       - uses: Nekzus/github-profile-views-counter-action@1.0.9
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
